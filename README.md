@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ocimum basilicum var. thyrsiflora 🍃
 
 <!--
 **BasilLeaf42/BasilLeaf42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Thai basil (Thai: โหระพา, RTGS: horapha, ISO: hōraphā, pronounced [hǒː.rá(ʔ).pʰāː]; Khmer: ជីរនាងវង, chi neang vorng; Vietnamese: húng quế) called káu-chàn-thah (九層塔) in Taiwan, is a type of basil native to Southeast Asia that has been cultivated to provide distinctive traits. Widely used throughout Southeast Asia, its flavor, described as anise- and licorice-like and slightly spicy, is more stable under high or extended cooking temperatures than that of sweet basil. Thai basil has small, narrow leaves, purple stems, and pink-purple flowers.
