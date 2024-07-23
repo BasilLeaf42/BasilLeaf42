@@ -1,4 +1,4 @@
-## Ocimum basilicum var. thyrsiflora 🍃
+## Thai basil (Ocimum basilicum var. thyrsiflora) 🍃
 
 <!--
 **BasilLeaf42/BasilLeaf42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
